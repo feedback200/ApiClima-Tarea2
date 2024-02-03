@@ -1,0 +1,22 @@
+.custom-bg {
+  background-color: rgba(51, 51, 51, 0.5);
+}
+
+.custom-text {
+  color: #fff;
+}
+
+.custom-icon {
+  color: #FFD700;
+}
+
+.custom-card {
+  border: 1px solid #555; 
+}
+
+body {
+  background-image: url('src/Img/Clima.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
